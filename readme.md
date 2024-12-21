@@ -6,6 +6,8 @@ This project aims to incentivize users to answer questions on forums by providin
 
 #### Contract Address
 0xAc7BB3E749Fa77e5d93F3DAdc45140c04F13268c
+![image](https://github.com/user-attachments/assets/3ba5cb5f-b395-4315-935b-3b234ce690c1)
+
 
 #### Project Vision
 The vision of this project is to create a community-driven platform where knowledge sharing is rewarded. By leveraging blockchain, we ensure transparency, security, and fairness in rewarding users for their contributions.
